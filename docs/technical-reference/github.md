@@ -4,9 +4,17 @@ title: Communicating via GitHub
 sidebar_label: Communicating via GitHub
 ---
 
-We recommend new members of OpenRefine's GitHub organization to apply some GitHub configuration settings, to help them integrate in the project smoothly.
+GitHub hosts OpenRefine’s codebase and serves as the primary issue tracker. It's worth noting that GitHub's significance extends beyond developers, as users, educators and designers also contribute significantly. You can create a free account on Github.com, if you don’t already have one.
+
+We don’t have a ticketing system other than Github issues. Work happens asynchronously and the implementation might take time. The asynchronous feedback and implementation process does not remove any value from the design suggestion as it helps elicit future functionalities or improvements.
+
+Additionally, critiquing a PR or an issue should come with a form of commitment on your end as to not slow down or halt development for the sake of voicing an opinion. Finally, there should be no reopening of a previously closed issue unless it has been specifically discussed and agreed upon in a forum thread.
+
+## Forum or GitHub?
+tktk some suggestions about when to open an issue directly and when to start a discussion on the forum.
 
 ## Notifications
+We recommend new members of OpenRefine's GitHub organization to apply some GitHub configuration settings, to help them integrate in the project smoothly.
 
 As a member of the organization, GitHub subscribes you automatically to a lot of notifications about everything that is happening in the project. For most people, this will generate much more noise than desired.
 
